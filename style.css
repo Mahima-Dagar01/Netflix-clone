@@ -206,20 +206,9 @@ nav button {
 .new{
     margin: 8px auto;
 }
-.email{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: auto;
-    max-width: 50vw;
-    padding: 34px;
-}
-.email .hero-button{
-    padding: 18px 150px 18px 20px;
-    color: white;
-    font-size: 14px;
-    border-radius: 4px;
-    background-color: rgba(23, 23, 23, 0.7);
-    border: 0.4px solid rgba(246, 238, 238, 0.5);
+.ready{
+    font-size: 20px;
     font-weight: 400;
+    text-align: center;
+    margin: 50px;
 }
